@@ -1,6 +1,0 @@
-
-import re
-import pandas as pd
-
-f = open('first_page.txt','r')
-
