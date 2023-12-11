@@ -28,9 +28,9 @@ Burg
 Hofbibliotek=Gebäudes
 Josephsplatze
 Palais des  Erzherzogs Karl
-Burgplatze
-Volksgartens
-Burggartens
+Burgplatz
+Volksgarten
+Burggarten
 Burggarten
 Gewächshäuser
 Wall
@@ -46,7 +46,7 @@ Baden
 Starhembergische Freihaus
 Polytechnische Jnstitut
 Karlskirche
-Starhembergische Frelhaus
+Starhembergische Freihaus
 Wienerwaldes
 Schneeberg
 Karlskirche
@@ -82,9 +82,8 @@ Kanal
 Stückbohrerei
 Jnvalidenhaus
 Kanalbassin
-Stubenthore
-Kloster und Kirche
-der  Dominikaner
+Stubenthor
+Kloster und Kirche der  Dominikaner
 Ravelin
 Hauptmauth
 Fahrpost
@@ -109,7 +108,7 @@ Franzensbrücke
 . Bastei
 unter den  Weißgärbern
 Erdberg
-Rothenthurmthore
+Rothenthurm=Thore
 Laurenzer=Gasse
 Laurenzerhof
 Staats=Buchhaltungen
@@ -159,7 +158,7 @@ Jnfanterie=Kaserne
 Alsergasse
 Dornbach
 Kriminale
-Ravelin 
+Ravelin
 Mölkerbastei
 Teinfaltstraße
 Palais Lubomirski
@@ -179,8 +178,8 @@ Palais Liechtenstein
 Staats=Kanzlei
 Ballplatz
 Bellaria
-Burgplatze
-Volksgartens
+Burgplatz
+Volksgarten
 zweites Kaffehaus von Corti
 Volksgarten
 Theseustempel
