@@ -39,7 +39,6 @@ steht
 stößt
 geht
 erbaut
-sieht
 bildet
 fährt
 steht
@@ -49,7 +48,6 @@ steht
 folgt
 steht
 endet
-sieht
 trägt
 kömmt
 hinüberführt
