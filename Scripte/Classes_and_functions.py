@@ -118,8 +118,10 @@ def Steinhausen_indexer(Steinhausen_coordinates, place_list):
 def table_comparer(coord_table):
     Sunday_gold_table = pd.read_excel("../Data/Sonntag/joined_Sonntag_coord_nn.xlsx", index_col=0)   
     Monday_gold_table = pd.read_excel("../Data/Montag/joined_Montag_coord_nn.xlsx", index_col=0)
+    Tuesday_gold_table = pd.read_excel("../Data/Dienstag/joined_Dienstag_coord_nn.xlsx", index_col=0)
 
     matches_sun = coord_table.merge(Sunday_gold_table, left_on='NEUE_NAMEN_x', right_on='NEUE_NAMEN').drop('NEUE_NAMEN', axis='columns')
     matches_mon = coord_table.merge(Monday_gold_table, left_on='NEUE_NAMEN_x', right_on='NEUE_NAMEN').drop('NEUE_NAMEN', axis='columns')
+    matches_tues = coord_table.merge(Tuesday_gold_table, left_on='NEUE_NAMEN_x', right_on='NEUE_NAMEN').drop('NEUE_NAMEN', axis='columns')
 
-    return matches_sun, matches_mon  
+    return matches_sun, matches_mon, matches_tues  
