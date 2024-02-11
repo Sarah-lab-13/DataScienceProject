@@ -1,0 +1,25 @@
+,Column1,NEUE_NAMEN,ADRESSE,Sicherheit,Longitude,Latitude,Quelle,URL
+0,0,deutsche Ordenskirche,"01., Singerstraße 7",mittel,16.373616038409892,48.20744278246985,KulturwikiOGD,
+1,1,Singerstraße,"01., Singerstraße 22",hoch,16.37464438954671,48.206839670461626,16.37394471,48.20722496
+2,2,„deutschen Hause,,mittel,16.37371245,48.20774629,Steinhausen Gazetteer,
+3,3,Stephansplatz,"01., Stephansplatz 3",hoch,16.37290534149696,48.20810040838734,KulturwikiOGD,
+4,4,Graben,"01., Graben 13",hoch,16.369900543390983,48.20853491227193,KulturwikiOGD,
+5,5,untere Breunerstraße,,hoch,16.36891379,48.20795612,Steinhausen Gazetteer,
+6,6,Josephsplatz,"01., Hofburg B Augustinertrakt",hoch,16.367075752409782,48.2061750322806,KulturwikiOGD,
+7,7,Hof=Wagen=Remisen,,mittel,16.36690318293693,48.20635775737951,QGIS-Estimation,
+8,8,Hofbibliothek,"01., Hofburg B Verwaltertrakt",hoch,16.36690318293693,48.20635775737951,QGIS-Estimation,
+9,9,kaiserlichen Appartements,,mittel,16.3660321269102,48.2070021137387,"GoogleMaps, wieninfo",https://www.wien.info/de/kunst-kultur/imperiales/kaiserappartements-349526#map
+10,10,Reichskanzlei,,mittel,16.36564621,48.2079539,Steinhausen Gazetteer,
+11,11,Schweizerhofe,"01., Hofburg B Schweizertrakt",mittel,16.36584321538764,48.20687606097441,KulturwikiOGD,
+12,12,Burgplatz,,hoch,16.3644986548132,48.20679511956491,QGIS-Estimation,
+13,13,Burgkapelle,"01., Hofburg B Burgkapelle",,16.365964214645626,48.20655806310715,KulturwikiOGD,
+14,14,Schweizerhofe,"01., Hofburg B Schweizertrakt",mittel,16.36584321538764,48.20687606097441,KulturwikiOGD,
+15,15,Schatzkammer,,,16.3658392967915,48.206672075715,"GoogleMaps, wieninfo",https://www.wien.info/de/kunst-kultur/imperiales/kaiserappartements-349526#map
+16,16,Josephsplatz,"01., Hofburg B Augustinertrakt",,16.367075752409782,48.2061750322806,KulturwikiOGD,
+17,17,Redoutenstiege,,,16.3670582711641,48.2070329776804,GoogleMaps,"https://www.google.com/maps/place/Gro%C3%9Fer+Redoutensaal,+1010+Wien/@48.2069007,16.367069,17z/data=!4m15!1m8!3m7!1s0x476d079975dd1269:0x744709453a102bb!2sGro%C3%9Fer+Redoutensaal,+1010+Wien!3b1!8m2!3d48.2069007!4d16.367069!16s%2Fg%2F11_tvchkz!3m5!1s0x476d079975dd1269:0x744709453a102bb!8m2!3d48.2069007!4d16.367069!16s%2Fg%2F11_tvchkz?entry=ttu"
+18,18,Augustinergang,"01., Josefsplatz 5",,16.36735,48.206725,Wien Geschichte Wiki,https://www.geschichtewiki.wien.gv.at/Datei:Hofburg_Rekonstruktion_1590.jpg
+19,19,Antikenkabinet,Augustinergang,,16.36735,48.206725,,
+20,20,kais. Mineralienkabinet,Augustinergang,,16.36735,48.206725,,
+21,21,Erzherzog Karl,,,,,,
+22,22,wilder Mann,,,16.35864951,48.20045949,Steinhausen Gazetteer,
+23,23,Kärnthnerstraße,"01., Kärntner Straße VOR 11-15 STAND",,16.37156507147156,48.20689290247812,KulturwikiOGD,
