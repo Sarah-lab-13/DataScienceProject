@@ -120,10 +120,12 @@ def table_comparer(coord_table):
     Monday_gold_table = pd.read_excel("../Data/Montag/joined_Montag_coord_nn.xlsx", index_col=0)
     Tuesday_gold_table = pd.read_excel("../Data/Dienstag/joined_Dienstag_coord_nn.xlsx", index_col=0)
     Thursday_gold_table = pd.read_excel("../Data/Donnerstag/joined_Donnerstag_coord_nn.xlsx", index_col=0)
+    Friday_gold_table = pd.read_excel("../Data/Freitag/joined_Freitag_coord_nn.xlsx", index_col=0)
 
     matches_sun = coord_table.merge(Sunday_gold_table, left_on='NEUE_NAMEN_x', right_on='NEUE_NAMEN').drop('NEUE_NAMEN', axis='columns')
     matches_mon = coord_table.merge(Monday_gold_table, left_on='NEUE_NAMEN_x', right_on='NEUE_NAMEN').drop('NEUE_NAMEN', axis='columns')
     matches_tues = coord_table.merge(Tuesday_gold_table, left_on='NEUE_NAMEN_x', right_on='NEUE_NAMEN').drop('NEUE_NAMEN', axis='columns')
     matches_thur = coord_table.merge(Thursday_gold_table, left_on='NEUE_NAMEN_x', right_on='NEUE_NAMEN').drop('NEUE_NAMEN', axis='columns')
+    matches_fri = coord_table.merge(Friday_gold_table, left_on='NEUE_NAMEN_x', right_on='NEUE_NAMEN').drop('NEUE_NAMEN', axis='columns')
 
-    return matches_sun, matches_mon, matches_tues, matches_thur
+    return matches_sun, matches_mon, matches_tues, matches_thur, matches_fri
