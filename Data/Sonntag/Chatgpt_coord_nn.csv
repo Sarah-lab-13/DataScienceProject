@@ -1,0 +1,152 @@
+,Entity,Label,NEUE_NAMEN,ADRESSE,Sicherheit,Longitude,Latitude,Quelle,URL
+0,Burg,Ort_im_Blickfeld,Burg,Hofburg,hoch,16.366111,48.206389,KulturwikiOGD,
+1,Ritter= oder 6 Ceremoniensaal,Ort_auf_Route,RitterCeremoniensaal,entspricht Rittersaal? ,mittel,16.366111,48.206389,KulturwikiOGD,
+2,Appartements Sr Majestät des Kaisers,Ort_im_Blickfeld,Appartements Sr Majestät des Kaisers,"Amalienburg, Hofburg? ",mittel,16.3660321269102,48.2070021137387,"GoogleMaps, wieninfo",https://www.wien.info/de/kunst-kultur/imperiales/kaiserappartements-349526#map
+3,Antiken= und Mineralienkabinet,Ort_auf_Route,AntikenMineralienkabinet,Augustinergang,,,,,
+4,Burg,Ort_auf_Route,Burg,Hofburg,hoch,16.366111,48.206389,KulturwikiOGD,
+5,Hofbiblio= thek=Gebäudes am Josephsplatze,Ort_im_Blickfeld,Hofbibliotek=Gebäudes,"Josefsplatz 1, heute: Prunksaal",hoch,16.366641,48.206166,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Prunksaal_der_%C3%96sterreichischen_Nationalbibliothek&language=de&params=48.206166_N_16.366641_E_region:AT-9_type:landmark
+6,Palais des Erzherzogs Karl,Ort_auf_Route,Palais des  Erzherzogs Karl,"01., Seilerstätte 30",niedrig,16.373083,48.20375,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Palais_Erzherzog_Carl&language=de&params=48.20375_N_16.373083333333_E_region:AT-9_type:landmark
+7,Burg= platze,Ort_auf_Route,Burgplatz,,hoch,16.36450003802901,48.20679359990539,QGIS - Estimation ,
+8,Volksgartens,Ort_im_Blickfeld,Volksgarten,"01., Volksgarten THESEUSTEMPEL",mittel,16.3617552379407,48.2079640584701,KulturwikiOGD,
+9,Burg= gartens,Ort_im_Blickfeld,Burggarten,"01., Burggarten P Burggartenrestaurant",mittel,16.3659572122668,48.2045550721249,KulturwikiOGD,
+10,Gewächshäuser,Ort_im_Blickfeld,Gewächshäuser,Schmetterlingshaus,mittel,16.366667,48.205278,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Schmetterlinghaus&language=de&params=48.205277777778_N_16.366666666667_E_region:AT-9_type:landmark
+11,Blumensaal,Ort_im_Blickfeld,,,,,,,
+12,Porzellan=Vase,Ort_im_Blickfeld,,,,,,,
+13,"Reiterstatue des Gemahls von M. Theresia, Kaisers Franz I.",Ort_im_Blickfeld,,,,,,,
+14,Wall,Ort_auf_Route,Wall,,sehr niedrig (f),16.37638786,48.20958737,Gazetteer_Steinhausenplan_V5_auto,
+15,Palais des Erzherzogs Karl,Ort_auf_Route,Palais des  Erzherzogs Karl,"01., Seilerstätte 30",niedrig,16.373083,48.20375,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Palais_Erzherzog_Carl&language=de&params=48.20375_N_16.373083333333_E_region:AT-9_type:landmark
+16,Spitalplatze,Ort_auf_Route,Spitalplatze,"01., heute: Albertinaplatz",hoch,16.369026,48.204306,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Albertinaplatz&language=de&params=48.204306_N_16.369026_E_region:AT-9_type:landmark
+17,Hofbau= amte,Ort_auf_Route,Hofbauamte,"01., beim Albertinaplatz? Neben der Augustinerbastei?",,,,,
+18,Kärnthnerthor=Theater,Ort_im_Blickfeld,Kärnthnerthor=Theater,"01., Philharmonikerstraße 4",mittel,16.3697726725468,48.2038870809446,KulturwikiOGD,
+19,Kärnthnerthore,Ort_auf_Route,Kärnthnerthore,"01, Kärntner Straße 51",hoch,16.3705344576716,48.2033034339512,"Wien Geschichte Wiki, Google Maps",https://www.geschichtewiki.wien.gv.at/K%C3%A4rntnertor
+20,Kärnthnerstraße,Ort_im_Blickfeld,Kärnthnerstraße,"01., Kärntner Straße VOR 11-15 STAND",mittel,16.3715650714715,48.2068929024781,KulturwikiOGD,
+21,Glacis,Ort_auf_Route,Glacis,,,,,,
+22,Brücke über die Wien,Ort_im_Blickfeld,,,,,,,
+23,Starhembergische Freihaus,Ort_im_Blickfeld,Starhembergische Freihaus,"04., Wiedner Hauptstraße 8-10 ",hoch,16.3673894389274,48.1988658892135,"ÖAW, Google Maps",https://www.oeaw.ac.at/tuerkengedaechtnis/denkmaeler/ort/wieden-freihaus
+24,Polytech= nische Jnstitut,Ort_im_Blickfeld,Polytechnische Jnstitut,"04., Karlsplatz 13",hoch,16.369912,48.198888,KulturwikiOGD,
+25,Karlskirche,Ort_im_Blickfeld,Karlskirche,"04., Karlsplatz 10(KIRCHE)",hoch,16.371866173866,48.1982450990309,KulturwikiOGD,
+26,Schneeberg,Ort_im_Blickfeld,Schneeberg,,mittel,15.8075,47.775833,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Schneeberg_(Rax-Schneeberg-Gruppe)&language=de&params=47.775833333333_N_15.8075_E_dim:5000_region:AT-3_type:mountain(2076)
+27,Belvedere,Ort_im_Blickfeld,Belvedere,"03., Prinz-Eugen-Straße 27 Obj. 8",hoch,16.3803401276524,48.194248112951,KulturwikiOGD,
+28,Rauch= fänge im Bahnhofe der Raaber Eisenbahn,Ort_im_Blickfeld,,,,,,,
+29,Kirche und Kloster der Salesianerinnen,Ort_im_Blickfeld,Kirche und Kloster der Salesianerinnen,"03., Rennweg",hoch,16.381667,48.195833,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Salesianerinnenkirche_(Wien)&language=de&params=48.195833333333_N_16.381666666667_E_region:AT-9_type:landmark
+30,Schwarzenbergi= schen Palais,Ort_im_Blickfeld,Schwarzenbergischen Palais,,niedrig,16.3702521,48.20529079,Gazetteer_Steinhausenplan_V5_manuell,
+31,Kaserne (für Jnfanterie und das Beschäl=Departement),Ort_im_Blickfeld,,,hoch,16.37795565196965,48.1996678169923,QGIS - Estimation,
+32,Pa= lais mit den großen Saalfenstern,Ort_im_Blickfeld,,,,,,,
+33,Militär=Magazin,Ort_im_Blickfeld,,,,,,,
+34,kleiner Gar= ten des Erzherzogs Karl,Ort_im_Blickfeld,Palais des  Erzherzogs Karl,"01., Seilerstätte 30",niedrig,16.373083,48.20375,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Palais_Erzherzog_Carl&language=de&params=48.20375_N_16.373083333333_E_region:AT-9_type:landmark
+35,Karolinenthor,Ort_auf_Route,Karolinenthor,"01., Weihburggasse 26",mittel,16.3756233564837,48.2052892317077,KulturwikiOGD,
+36,Artille= rie=Haupt=Zeugamt mit dem Blechthürmchen,Ort_im_Blickfeld,Artillerie=Haupt=Zeugamt,,,,,QGIS-Estimation,
+37,Seilerstätte,Ort_im_Blickfeld,Seilerstätte,"01., Seilerstätte 22",hoch,16.3743618942548,48.204804726818,KulturwikiOGD,
+38,Weihburggasse,Ort_im_Blickfeld,Weihburggasse,"01., Weihburggasse 18-20",mittel,16.374771532126,48.2059304136154,Gazetteer_Steinhausenplan_V5_auto,
+39,Brücke zur Mineralwässer=Trink= kur=Anstalt,Ort_im_Blickfeld,Mineralwässer=Trinkkur=Anstalt,,,,,,
+40,Vorstadt Rennweg,Ort_auf_Route,Rennweg,"03., Eslarngasse 29",mittel,16.3921416494607,48.1931009556664,Gazetteer_Steinhausenplan_V5_auto,
+41,Ravelin,Ort_auf_Route,Ravelin,,,,,,
+42,Palais des Herzogs von Koburg,Ort_im_Blickfeld,Palais des Herzogs von Koburg,"01., Coburgbastei 2-4",hoch,16.3772441423283,48.2061863295952,"Palais Coburg Residenz, Google Maps",https://www.palais-coburg.com/
+43,Hause,Ort_im_Blickfeld,,,,,,,
+44,orientalische Akademie,Ort_im_Blickfeld,orientalische Akademie,Zedlitzgasse 4,niedrig,16.3771259558208,48.2076499760868,"CityABC, Google Maps",https://cityabc.at/index.php/Zedlitzgasse_4#Orientalische_Akademie
+45,Stubenthor,Ort_auf_Route,Stubenthor,"01., Wollzeile 17",hoch,16.37882835164897,48.20765415345475,QGIS - Estimation,
+46,Wollzeile,Ort_im_Blickfeld,Wollzeile,"01., Wollzeile 20",hoch,16.3763895227159,48.2083415544804,Gazetteer_Steinhausenplan_V5_auto,
+47,Steinbrücke über die Wienist Wien,Ort_im_Blickfeld,,Stuben(tor)brücke,hoch,16.382333,48.206694,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Stubenbr%C3%BCcke&language=de&params=48.206694444444_N_16.382333333333_E_region:AT-9_type:landmark
+48,VorstadtVorstadt = Bezirk LandstraßeVorstadt = Bezirk,Ort_auf_Route,,"03., Steingasse 38",mittel,16.3925499941631,48.1924250425155,KulturwikiOGD,
+49,Münzgebäude,Ort_im_Blickfeld,Münzgebäude,"03., Am Heumarkt 1; Hauptgebäude der Münze Österreich",hoch,16.382746,48.203598,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Hauptgeb%C3%A4ude_der_M%C3%BCnze_%C3%96sterreich&language=de&params=48.203598_N_16.382746_E_region:AT-9_type:landmark
+50,Neustädter Kanal,Ort_im_Blickfeld,Neustädter ,,sehr niedrig (f),16.349722,48.075278,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Wiener_Neust%C3%A4dter_Kanal&language=de&params=48.075277777778_N_16.349722222222_E_region:AT-3_type:waterbody
+51,Stückbohrerei,Ort_im_Blickfeld,Stückbohrerei,"03., Linke Bahngasse 9",mittel,16.3843746701567,48.2031547717367,KulturwikiOGD,
+52,Jnvalidenhaus,Ort_im_Blickfeld,Jnvalidenhaus,,hoch,16.3865,48.2064,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Invalidenhaus_(Wien)&language=de&params=48.2064_N_16.3865_E_region:AT-9_type:landmark
+53,Ka= nalbassin,Ort_im_Blickfeld,Kanalbassin,,,,,,
+54,Stubenthore Kloster und Kirche der Dominikaner,Ort_auf_Route,Kloster und Kirche der  Dominikaner,Postgasse 7-9,mittel,16.37886547,48.20813528,Gazetteer_Steinhausenplan_V5_manuell,
+55,Ravelin,Ort_auf_Route,Ravelin,,,,,,
+56,Gebäude der 9 Hauptmauth,Ort_im_Blickfeld,,,hoch,16.37997332711235,48.20998039946321,QGIS - Estimation,
+57,Fahr= post,Ort_im_Blickfeld,Fahrpost,,,,,,
+58,offene Brücke ohne Thor,Ort_im_Blickfeld,,,,,,,
+59,Transitomagazinen,Ort_im_Blickfeld,,,,,,,
+60,neue Bau für die Hauptmauth (Zollamt),Ort_im_Blickfeld,,"03., Hintere Zollamtsstraße 2A",hoch,16.3867689100923,48.2110223126289,"CityABC, Google Maps",https://cityabc.at/index.php/Hintere_Zollamtsstra%C3%9Fe_2A
+61,Ravelin,Ort_auf_Route,Ravelin,,,,,,
+62,Donaukanal,Ort_im_Blickfeld,Donaukanal,"02., Schüttelstraße 17A",hoch,16.3950020299091,48.2113512330379,KulturwikiOGD,
+63,Kahlengebirge,Ort_im_Blickfeld,Kahlengebirge,"19., Am Kahlenberg K Stephanie-Warte",mittel,16.3330615633398,48.2762075206991,KulturwikiOGD,
+64,Praters,Ort_im_Blickfeld,Praters,"02., Meiereistraße 20; k.k. Unterer Prater",mittel,16.4141951988236,48.2055162577246,KulturwikiOGD,
+65,Leopoldstadt,Ort_im_Blickfeld,Leopoldstadt,"02., Heustadlsteg 213",mittel,16.38050694491423,48.21584540181176,QGIS-Estimation,
+66,Ferdinandsbrücke,Ort_im_Blickfeld,Ferdinandsbrücke,Schwedenbrücke,hoch,16.378889,48.211944,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Schwedenbr%C3%BCcke&language=de&params=48.211944444444_N_16.378888888889_E_region:AT-9_type:landmark
+67,Taborstraße,Ort_im_Blickfeld,Taborstraße,"02., Taborstraße 63",mittel,16.3822236734434,48.2220212119013,KulturwikiOGD,
+68,Tabor,Ort_im_Blickfeld,Tabor,,,,,,
+69,Jägerzeile,Ort_im_Blickfeld,Jägerzeile,Leopoldstadt,hoch,16.385278,48.215278,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=J%C3%A4gerzeile&language=de&params=48.215277777778_N_16.385277777778_E_region:AT-9_type:city
+70,Donau,Ort_auf_Route,Donau,"02., Kafkasteg R RESTAURANT",sehr niedrig (f),16.4162584112263,48.2203084222321,KulturwikiOGD,
+71,Fischerkähne,Ort_im_Blickfeld,Fischerthore,"01., Morzinplatz 3",hoch,16.3739870831074,48.212963261662,"CityABC, Google Maps",https://cityabc.at/index.php/Fischerstiege#Das_Tor_aus_Sicht_des_Jahres_1842
+72,Korn= speicher,Ort_im_Blickfeld,Kornspeicher,,,,,,
+73,Franzens= brücke,Ort_im_Blickfeld,Franzensbrücke,"02., Franzensbrücke 202",hoch,16.3913111006681,48.2131740152539,KulturwikiOGD,
+74,Ravelin,Ort_auf_Route,Ravelin,,,,,,
+75,Palais des Herzogs von Koburg,Ort_im_Blickfeld,Palais des Herzogs von Koburg,"01., Coburgbastei 2-4",hoch,16.3772441423283,48.2061863295952,"Palais Coburg Residenz, Google Maps",https://www.palais-coburg.com/
+76,Hause,Ort_auf_Route,,,,,,,
+77,orientalische Akademie,Ort_im_Blickfeld,orientalische Akademie,Zedlitzgasse 4,niedrig,16.3771259558208,48.2076499760868,"CityABC, Google Maps",https://cityabc.at/index.php/Zedlitzgasse_4#Orientalische_Akademie
+78,Stubenthor,Ort_auf_Route,Stubenthor,"01., Wollzeile 17",hoch,16.37882835164897,48.20765415345475,QGIS - Estimation,
+79,Stadt die Wollzeile,Ort_im_Blickfeld,Wollzeile,"01., Wollzeile 20",hoch,16.3763895227159,48.2083415544804,Gazetteer_Steinhausenplan_V5_auto,
+80,Steinbrücke über die Wien,Ort_im_Blickfeld,,,,,,,
+81,VorstadtVorstadt,Ort_auf_Route,,,,,,,
+82,Bezirk LandstraßeVorstadt = Bezirk,Ort_auf_Route,,,,,,,
+83,Münzgebäude,Ort_im_Blickfeld,Münzgebäude,"03., Am Heumarkt 1; Hauptgebäude der Münze Österreich",hoch,16.382746,48.203598,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Hauptgeb%C3%A4ude_der_M%C3%BCnze_%C3%96sterreich&language=de&params=48.203598_N_16.382746_E_region:AT-9_type:landmark
+84,Neustädter Kanal,Ort_im_Blickfeld,Neustädter ,,sehr niedrig (f),16.349722,48.075278,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Wiener_Neust%C3%A4dter_Kanal&language=de&params=48.075277777778_N_16.349722222222_E_region:AT-3_type:waterbody
+85,Stückbohrerei,Ort_im_Blickfeld,Stückbohrerei,"03., Linke Bahngasse 9",mittel,16.3843746701567,48.2031547717367,KulturwikiOGD,
+86,Jnvalidenhaus,Ort_im_Blickfeld,Jnvalidenhaus,,hoch,16.3865,48.2064,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Invalidenhaus_(Wien)&language=de&params=48.2064_N_16.3865_E_region:AT-9_type:landmark
+87,Kanalbassin mit einem Holzmarkte,Ort_im_Blickfeld,,,,,,,
+88,Kloster und Kirche der Dominikaner,Ort_auf_Route,Kloster und Kirche der  Dominikaner,Postgasse 7-9,mittel,16.37886547,48.20813528,Gazetteer_Steinhausenplan_V5_manuell,
+89,hoher Ravelin,Ort_im_Blickfeld,Ravelin,,,,,,
+90,Gebäude der 9 Hauptmauth,Ort_auf_Route,,,,,,,
+91,Fahrpost,Ort_auf_Route,Fahrpost,,,,,,
+92,Transitomagazinen,Ort_auf_Route,,,,,,,
+93,imposante neue Bau für die Hauptmauth (Zollamt),Ort_im_Blickfeld,,,,,,,
+94,Ravelin,Ort_auf_Route,Ravelin,,,,,,
+95,Donaukanal,Ort_auf_Route,Donaukanal,"02., Schüttelstraße 17A",hoch,16.3950020299091,48.2113512330379,KulturwikiOGD,
+96,Kahlengebirge,Ort_im_Blickfeld,Kahlengebirge,"19., Am Kahlenberg K Stephanie-Warte",mittel,16.3330615633398,48.2762075206991,KulturwikiOGD,
+97,Bäume des Praters,Ort_im_Blickfeld,,,,,,,
+98,Leopoldstadt,Ort_im_Blickfeld,Leopoldstadt,"02., Heustadlsteg 213",mittel,16.38050694491423,48.21584540181176,QGIS-Estimation,
+99,Ferdinandsbrücke,Ort_auf_Route,Ferdinandsbrücke,Schwedenbrücke,hoch,16.378889,48.211944,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Schwedenbr%C3%BCcke&language=de&params=48.211944444444_N_16.378888888889_E_region:AT-9_type:landmark
+100,Taborstraße,Ort_auf_Route,Taborstraße,"02., Taborstraße 63",mittel,16.3822236734434,48.2220212119013,KulturwikiOGD,
+101,Jägerzeile,Ort_im_Blickfeld,Jägerzeile,Leopoldstadt,hoch,16.385278,48.215278,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=J%C3%A4gerzeile&language=de&params=48.215277777778_N_16.385277777778_E_region:AT-9_type:city
+102,Praterfahrt,Ort_im_Blickfeld,Praters,"02., Meiereistraße 20; k.k. Unterer Prater",mittel,16.4141951988236,48.2055162577246,KulturwikiOGD,
+103,Donau,Ort_im_Blickfeld,Donau,"02., Kafkasteg R RESTAURANT",sehr niedrig (f),16.4162584112263,48.2203084222321,KulturwikiOGD,
+104,Kornspeicher,Ort_im_Blickfeld,Kornspeicher,,,,,,
+105,Franzensbrücke,Ort_im_Blickfeld,Franzensbrücke,"02., Franzensbrücke 202",hoch,16.3913111006681,48.2131740152539,KulturwikiOGD,
+106,Bastei,Ort_auf_Route,. Bastei,"01., Singerstraße 2",,16.3719451158804,48.2077579875822,KulturwikiOGD,
+107,Vorstadt dießseits,Ort_auf_Route,,,,,,,
+108,Weißgär= bern,Ort_im_Blickfeld,unter den  Weißgärbern,,mittel,16.3884228,48.21224095,Gazetteer_Steinhausenplan_V5_auto,
+109,Erdberg,Ort_im_Blickfeld,Erdberg,"03., Gestettengasse 36A",mittel,16.4069369983908,48.194841093632,KulturwikiOGD,
+110,Rothen= thurmthore,Ort_auf_Route,Rothenthurm=Thore,,hoch,16.37838824076474,48.21161448839335,QGIS - Estimation,
+111,Salzgries,Ort_im_Blickfeld,Salzgries,"01., Salztorgasse 2",mittel,16.3728561894804,48.2129740280833,KulturwikiOGD,
+112,Poli= zeihaus,Ort_im_Blickfeld,Polizeihaus,"01., Salzgries 10-16",mittel,16.3716537100925,48.2134726054448,KulturwikiOGD,
+113,Grenadierkaserne,Ort_im_Blickfeld,Grenadierkaserne,Gumpendorferstraße 6-12,hoch,16.361861,48.200944,"Truppendienst, GeoHack; unter: https://www.truppendienst.com/fileadmin/user_upload/TD_vor_50_Jahren/1991/Militaerische_Einrichtungen_Wiens_im_Wandel_der_Zeit__I_.pdf ,",https://geohack.toolforge.org/geohack.php?pagename=Getreidemarktkaserne&language=de&params=48.200763888889_N_16.361305555556_E_region:AT-9_type:landmark
+114,Stabsstock= haus,Ort_im_Blickfeld,Stabsstockhaus,,,,,,
+115,Elendbastei,Ort_im_Blickfeld,Elendbastei,"01., Schottenring 7, Sühnhaus",hoch,16.37089487712133,48.21442454654365,QGIS - Estimation ,
+116,Bastei,Ort_auf_Route,. Bastei,"01., Singerstraße 2",,16.3719451158804,48.2077579875822,KulturwikiOGD,
+117,Dach des Arsenales,Ort_im_Blickfeld,Arsenales,,hoch,16.36726977,48.21374354,Gazetteer_Steinhausenplan_V5_auto,
+118,Proviantbäckerei,Ort_im_Blickfeld,Proviantbäckerei,,,,,,
+119,Schot= tenthore,Ort_auf_Route,Schottenthore,"01., Freyung 6 Konvent",hoch,16.3635749184532,48.21320492206406,QGIS-Estimation,
+120,Schot= tengasse,Ort_im_Blickfeld,Schottengasse,"01., Schottengasse 4",niedrig,16.363197754961,48.2132486749223,KulturwikiOGD,
+121,Freiung,Ort_im_Blickfeld,Freiung,"01., Freyung Tiefgarage",hoch,16.3647892781553,48.2115772779088,Gazetteer_Steinhausenplan_V5_auto,
+122,Herrngasse,Ort_im_Blickfeld,Herrngasse,"01., Herrengasse 10",hoch,16.3656068251942,48.2098405410723,Gazetteer_Steinhausenplan_V5_auto,
+123,Währingergasse,Ort_auf_Route,Währingergasse,,hoch,16.35822875,48.21860117,Gazetteer_Steinhausenplan_V5_auto,
+124,Gewehrfabrik,Ort_im_Blickfeld,Gewehrfabrik,"09., Schwarzspanierstraße 17",hoch,16.3583315441385,48.2170208900507,KulturwikiOGD,
+125,Schwarz= spanier,Ort_im_Blickfeld,,,,,,,
+126,Garnisons=Bettmagazin,Ort_im_Blickfeld,GarnisonsBettmagazin,,mittel,18.4400221375504,34.2019048735439,QGIS - Estimation,
+127,fürstlich Esterhazische sogenannte rothe Haus,Ort_im_Blickfeld,fürstlichEsterhazische sogenannte rothe Haus,Wallnerstraße oder Kärtnerstraße ,hoch,18.1858255041702,34.192160669263,QGIS - Estimation,
+128,Jnfanterie=Kaserne,Ort_im_Blickfeld,Jnfanterie=Kaserne,,mittel,16.35487124361848,48.2148999202754,QGIS - Estimation,
+129,Alsergasse,Ort_im_Blickfeld,Alsergasse,"21., Kalsergasse 22",hoch,16.35120368808063,48.21490045957493,QGIS - Estimation,
+130,Kriminale,Ort_im_Blickfeld,Kriminale,,hoch,16.35506101024108,48.2141886755896,QGIS - Estimation,
+131,Ravelin Mölkerbastei,Ort_auf_Route,Mölkerbastei,"01., Mölker Bastei 8",hoch,16.3620532425105,48.2123940370492,KulturwikiOGD,
+132,Teinfaltstraße,Ort_im_Blickfeld,Teinfaltstraße,"01., Teinfaltstraße 7",hoch,16.3627143666587,48.2114410456447,KulturwikiOGD,
+133,Palais Lubomirski,Ort_im_Blickfeld,Palais Lubomirski,"01., Mölker Bastei ",mittel,16.361944,48.211667,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Palais_Lubomirski&language=de&params=48.211666666667_N_16.361944444444_E_region:AT-9_type:landmark
+134,Säulenhalle,Ort_im_Blickfeld,,,,,,,
+135,Fran= zensthor,Ort_im_Blickfeld,Franzensthor,"01., Rosengasse 8",hoch,16.36150298908665,48.2110399517675,QGIS - Estimation,
+136,Glacis,Ort_auf_Route,Glacis,,,,,,
+137,Josephstadt,Ort_im_Blickfeld,Josephstadt,"08., Fuhrmannsgasse 3",hoch,16.3480816321009,48.2103093789491,KulturwikiOGD,
+138,geographische Jnstitut des Generalstabes,Ort_im_Blickfeld,geographische Jnstitut,"01., Friedrich-Schmidt-Platz 3",mittel,16.356329,48.210981,KulturwikiOGD,
+139,Kaisergasse,Ort_im_Blickfeld,Kaisergasse,"23., Kaserngasse 22",hoch,16.34941129155137,48.20958245176354,QGIS-Estimation,
+140,Josephstädter Theater,Ort_im_Blickfeld,Josephstädter Theater,,mittel,16.351111,48.209583,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Theater_in_der_Josefstadt&language=de&params=48.209583333333_N_16.351111111111_E_dim:400_region:AT-9_type:landmark
+141,große Kavallerie=Kaserne,Ort_im_Blickfeld,Kavallerie=Kaserne,,hoch,16.34596291721564,48.2111036535517,QGIS-Estimation,
+142,Lerchenfeld,Ort_auf_Route,Lerchenfeld,"07., Lerchenfelder Straße 81",hoch,16.3448583188681,48.2072450727103,KulturwikiOGD,
+143,Löwelbastei,Ort_auf_Route,Löwelbastei,"01., Volksgarten GAERTNERHAUS",hoch,16.36130416551425,48.20989200905235,QGIS-Estimation,
+144,Paradies=Gärtchen,Ort_im_Blickfeld,Paradies=Gärtchen,,sehr niedrig (f),16.36664806,48.20774753,Gazetteer_Steinhausenplan_V5_manuell,
+145,Cortis=Kaffehhause,Ort_im_Blickfeld,Cortis=Kaffehhause,"01., Volksgarten",mittel,16.3609691632441,48.2069211592244,"Wien Geschichte Wiki, Google Maps",https://www.geschichtewiki.wien.gv.at/Cortisches_Kaffeehaus
+146,Volksgarten,Ort_im_Blickfeld,Volksgarten,"01., Volksgarten THESEUSTEMPEL",mittel,16.3617552379407,48.2079640584701,KulturwikiOGD,
+147,Schenkenstraße,Ort_im_Blickfeld,Schenkenstraße,"01., Schenkenstraße 8",hoch,16.36352996400103,48.21033442845649,QGIS - Estimation,
+148,Palais Liech= tenstein,Ort_im_Blickfeld,Palais Liechtenstein,"(Stadtpalais) 01., Bankgasse 9",mittel,16.3626965846566,48.2101289183061,Google Maps,
+149,doppelte Brücke,Ort_im_Blickfeld,große Steinbrücke,Stuben(tor)brücke,hoch,16.382333,48.206694,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Stubenbr%C3%BCcke&language=de&params=48.206694444444_N_16.382333333333_E_region:AT-9_type:landmark
+150,neuesten Style,Ort_auf_Route,,,,,,,
