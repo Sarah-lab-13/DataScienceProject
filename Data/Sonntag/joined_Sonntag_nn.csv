@@ -1,0 +1,189 @@
+,Index,NEUE_NAMEN,ADRESSE,Sicherheit,Longitude,Latitude,Quelle,URL
+0,0,k. k. Burg,,hoch,16.36580946,48.20687425,Gazetteer_Steinhausenplan_V5_auto,
+1,1,Burgplatz,,hoch,16.36450003802901,48.20679359990539,QGIS - Estimation ,
+2,2,Burgthor,,hoch,16.3627016506943,48.20578118376297,QGIS - Estimation ,
+3,3,kaiserlichen Stallungen,,hoch,16.35886159476743,48.20359279897094,QGIS - Estimation ,
+4,4,Gebäude der ungarischen Garde,"07., Museumstraße 7",mittel,16.355278,48.205833,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Palais_Trautson&language=de&params=48.205833333333_N_16.355277777778_E_region:AT-9_type:landmark
+5,5,Palais des  Fürsten Auersperg,,niedrig,16.36429283,48.21043401,Gazetteer_Steinhausenplan_V5_manuell,
+6,6,Gebäude des Geographischen (Militär=)Jnstituts,"01., Friedrich-Schmidt-Platz 3",niedrig,16.356329,48.210981,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=K.u.k._Milit%C3%A4rgeographisches_Institut&language=de&params=48.210284_N_16.35507_E_dim:70_region:AT-9_type:landmark
+7,7,KriminalGebäude,,,,,,
+8,8,Kahlengebirge,"19., Am Kahlenberg K Stephanie-Warte",mittel,16.3330615633398,48.2762075206991,KulturwikiOGD,
+9,9,Mariahilfer Hauptstraße,"15., Mariahilfer Straße 137",mittel,16.3368835538601,48.1949193917739,KulturwikiOGD,
+10,10,Schönbrunn,,,16.37037525,48.21017985,Gazetteer_Steinhausenplan_V5_auto,
+11,11,Grenadierkaserne,Gumpendorferstraße 6-12,hoch,16.361861,48.200944,"Truppendienst, GeoHack; unter: https://www.truppendienst.com/fileadmin/user_upload/TD_vor_50_Jahren/1991/Militaerische_Einrichtungen_Wiens_im_Wandel_der_Zeit__I_.pdf ,",https://geohack.toolforge.org/geohack.php?pagename=Getreidemarktkaserne&language=de&params=48.200763888889_N_16.361305555556_E_region:AT-9_type:landmark
+12,12,Getreidemarkt,"06., Getreidemarkt 9 Obj. 4",hoch,16.36200739961049,48.20189664806799,QGIS -Estimation,
+13,13,artesischen Brunnen,,,,,,
+14,14,Akazien=Alleen,,,,,,
+15,15,Wien,,mittel,16.36501356,48.19925432,Gazetteer_Steinhausenplan_V5_manuell,
+16,16,Kettenstege,!=Salztorbücke,sehr niedrig (f),,,,
+17,17,der steinernen Brücke,a.k.a. Elisabethbrücke,mittel,16.368694,48.200528,"Wien Geschichte Wiki, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Elisabethbr%C3%BCcke_(Wien)&language=de&params=48.200527777778_N_16.368694444444_E_dim:1000_region:AT-9_type:building
+18,18,Polytechnische Jnstitut,"04., Karlsplatz 13",hoch,16.369912,48.198888,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=K.k._Polytechnisches_Institut&language=de&params=48.198888_N_16.369912_E_region:AT-9_type:landmark
+19,19,Karlskirche,"04., Karlsplatz 10(KIRCHE)",hoch,16.371866173866,48.1982450990309,KulturwikiOGD,
+20,20,Burg,Hofburg,hoch,16.366111,48.206389,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Wiener_Karlskirche&language=de&params=48.198247222222_N_16.371422222222_E_region:AT-9_type:landmark
+21,21,RitterCeremoniensaal,entspricht Rittersaal? ,niedrig,,,,
+22,22,Appartements Sr Majestät des Kaisers,"Amalienburg, Hofburg? ",niedrig,,,,
+23,23,Rittersaal,"Zeremoniensaaltrakt, Hofburg",mittel,16.366111,48.206389,KulturwikiOGD,
+24,24,AntikenMineralienkabinet,Augustinergang,,,,,
+25,25,astronomische Thurm,,,,,,
+26,26,Burg,Hofburg,hoch,16.366111,48.206389,KulturwikiOGD,
+27,27,Hofbibliotek=Gebäudes,"Josefsplatz 1, heute: Prunksaal",hoch,16.366641,48.206166,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Prunksaal_der_%C3%96sterreichischen_Nationalbibliothek&language=de&params=48.206166_N_16.366641_E_region:AT-9_type:landmark
+28,28,Josephsplatze,,hoch,16.367182,48.206511,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Josefsplatz_(Wien)&language=de&params=48.206511_N_16.367182_E_region:AT-9_type:landmark
+29,29,Palais des  Erzherzogs Karl,"01., Seilerstätte 30",niedrig,16.373083,48.20375,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Palais_Erzherzog_Carl&language=de&params=48.20375_N_16.373083333333_E_region:AT-9_type:landmark
+30,30,Burgplatz,,hoch,16.36450003802901,48.20679359990539,QGIS - Estimation ,
+31,31,Volksgarten,"01., Volksgarten THESEUSTEMPEL",mittel,16.3617552379407,48.2079640584701,KulturwikiOGD,
+32,32,Burggarten,"01., Burggarten P Burggartenrestaurant",mittel,16.3659572122668,48.2045550721249,KulturwikiOGD,
+33,33,Burggarten,"01., Burggarten P Burggartenrestaurant",mittel,16.3659572122668,48.2045550721249,KulturwikiOGD,
+34,34,Gewächshäuser,Schmetterlingshaus,mittel,16.366667,48.205278,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Schmetterlinghaus&language=de&params=48.205277777778_N_16.366666666667_E_region:AT-9_type:landmark
+35,35,Wall,,sehr niedrig (f),16.37638786,48.20958737,Gazetteer_Steinhausenplan_V5_auto,
+36,36,Palais des  Erzherzogs Karl,"01., Seilerstätte 30",niedrig,16.373083,48.20375,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Palais_Erzherzog_Carl&language=de&params=48.20375_N_16.373083333333_E_region:AT-9_type:landmark
+37,37,Spitalplatze,"01., heute: Albertinaplatz",hoch,16.369026,48.204306,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Albertinaplatz&language=de&params=48.204306_N_16.369026_E_region:AT-9_type:landmark
+38,38,Hofbauamte,"01., beim Albertinaplatz? Neben der Augustinerbastei?",,,,,
+39,39,Kärnthnerthor=Theater,"01., Philharmonikerstraße 4",mittel,16.3697726725468,48.2038870809446,KulturwikiOGD,
+40,40,Wall,,sehr niedrig (f),16.37638786,48.20958737,Gazetteer_Steinhausenplan_V5_auto,
+41,41,Kärnthnerthore,"01, Kärntner Straße 51",hoch,16.3705344576716,48.2033034339512,"Wien Geschichte Wiki, Google Maps",https://www.geschichtewiki.wien.gv.at/K%C3%A4rntnertor
+42,42,Kärnthnerstraße,"01., Kärntner Straße VOR 11-15 STAND",mittel,16.3715650714715,48.2068929024781,KulturwikiOGD,
+43,43,Wieden,"04., Waltergasse 10/1",mittel,16.3698168706786,48.1915082966871,KulturwikiOGD,
+44,44,Baden,,,,,,
+45,45,Starhembergische Freihaus,"04., Wiedner Hauptstraße 8-10 ",hoch,16.3673894389274,48.1988658892135,"ÖAW, Google Maps",https://www.oeaw.ac.at/tuerkengedaechtnis/denkmaeler/ort/wieden-freihaus
+46,46,Polytechnische Jnstitut,"04., Karlsplatz 13",hoch,16.369912,48.198888,KulturwikiOGD,
+47,47,Karlskirche,"04., Karlsplatz 10(KIRCHE)",hoch,16.371866173866,48.1982450990309,KulturwikiOGD,
+48,48,Starhembergische Freihaus,"04., Wiedner Hauptstraße 8-10 ",hoch,16.3673894389274,48.1988658892135,KulturwikiOGD,
+49,49,Wienerwaldes,"14., Knödelhüttenstraße 176",mittel,16.2343370924983,48.2244265511275,KulturwikiOGD,
+50,50,Schneeberg,,mittel,15.8075,47.775833,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Schneeberg_(Rax-Schneeberg-Gruppe)&language=de&params=47.775833333333_N_15.8075_E_dim:5000_region:AT-3_type:mountain(2076)
+51,51,Karlskirche,"04., Karlsplatz 10(KIRCHE)",hoch,16.371866173866,48.1982450990309,KulturwikiOGD,
+52,52,Sommerpalais des  Fürsten  Schwarzenberg,,hoch,16.37683181672506,48.19738217021165,QGIS - Estimation,
+53,53,Belvedere,"03., Prinz-Eugen-Straße 27 Obj. 8",hoch,16.3803401276524,48.194248112951,KulturwikiOGD,
+54,54,Bahnhofe,"*der Raaber Linie, ehem. Südbahnhof, Vor der Favoriten=Linie.",hoch,16.3801,48.186576,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Wien_S%C3%BCdbahnhof&language=de&params=48.186576_N_16.3801_E_dim:2000_region:AT-9_type:railwaystation
+55,55,Belvedere,"03., Prinz-Eugen-Straße 27 Obj. 8",hoch,16.3803401276524,48.194248112951,KulturwikiOGD,
+56,56,Kirche und Kloster der Salesianerinnen,"03., Rennweg",hoch,16.381667,48.195833,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Salesianerinnenkirche_(Wien)&language=de&params=48.195833333333_N_16.381666666667_E_region:AT-9_type:landmark
+57,57,Schwarzenbergischen Palais,,niedrig,16.3702521,48.20529079,Gazetteer_Steinhausenplan_V5_manuell,
+58,58,Kaserne,,hoch,16.37795565196965,48.1996678169923,QGIS - Estimation,
+59,59,Palais,des Erzherzogs Maximilian,,,,,
+60,60,Stadtgraben,,,,,,
+61,61,Palais Kolowrat,"01., Seilerstätte 23 (?)",niedrig,16.3734428711641,48.2037413367958,"Planet Vienna, Google Maps",https://planet-vienna.com/palais-kolowrat-liebsteinsky/
+62,62,Artillerie=Haupt=Zeugamt,,,,,QGIS-Estimation,
+63,63,Karolinenthor,"01., Weihburggasse 26",mittel,16.3756233564837,48.2052892317077,KulturwikiOGD,
+64,64,Stadtgraben,,,,,,
+65,65,Seilerstätte,"01., Seilerstätte 22",hoch,16.3743618942548,48.204804726818,KulturwikiOGD,
+66,66,Weihburggasse,"01., Weihburggasse 18-20",mittel,16.374771532126,48.2059304136154,Gazetteer_Steinhausenplan_V5_auto,
+67,67,Mineralwässer=Trinkkur=Anstalt,,,,,,
+68,68,Rennweg,"03., Eslarngasse 29",mittel,16.3921416494607,48.1931009556664,Gazetteer_Steinhausenplan_V5_auto,
+69,69,Palais des Herzogs von Koburg,"01., Coburgbastei 2-4",hoch,16.3772441423283,48.2061863295952,"Palais Coburg Residenz, Google Maps",https://www.palais-coburg.com/
+70,70,orientalische Akademie,Zedlitzgasse 4,niedrig,16.3771259558208,48.2076499760868,"CityABC, Google Maps",https://cityabc.at/index.php/Zedlitzgasse_4#Orientalische_Akademie
+71,71,Stubenthor,"01., Wollzeile 17",hoch,16.37882835164897,48.20765415345475,QGIS - Estimation,
+72,72,Wollzeile,"01., Wollzeile 20",hoch,16.3763895227159,48.2083415544804,Gazetteer_Steinhausenplan_V5_auto,
+73,73,große Steinbrücke,Stuben(tor)brücke,hoch,16.382333,48.206694,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Stubenbr%C3%BCcke&language=de&params=48.206694444444_N_16.382333333333_E_region:AT-9_type:landmark
+74,74,Wien,,,,,,
+75,75,Landstraße,"03., Steingasse 38",mittel,16.3925499941631,48.1924250425155,KulturwikiOGD,
+76,76,zur Linie (Barriere) von St. Marx,,,,,,
+77,77,Ungarn,,,,,,
+78,78,Münzgebäude,"03., Am Heumarkt 1; Hauptgebäude der Münze Österreich",hoch,16.382746,48.203598,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Hauptgeb%C3%A4ude_der_M%C3%BCnze_%C3%96sterreich&language=de&params=48.203598_N_16.382746_E_region:AT-9_type:landmark
+79,79,Neustädter ,,sehr niedrig (f),16.349722,48.075278,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Wiener_Neust%C3%A4dter_Kanal&language=de&params=48.075277777778_N_16.349722222222_E_region:AT-3_type:waterbody
+80,80,Kanal,,sehr niedrig (f),16.349722,48.075278,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Wiener_Neust%C3%A4dter_Kanal&language=de&params=48.075277777778_N_16.349722222222_E_region:AT-3_type:waterbody
+81,81,Stückbohrerei,"03., Linke Bahngasse 9",mittel,16.3843746701567,48.2031547717367,KulturwikiOGD,
+82,82,Jnvalidenhaus,,hoch,16.3865,48.2064,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Invalidenhaus_(Wien)&language=de&params=48.2064_N_16.3865_E_region:AT-9_type:landmark
+83,83,Kanalbassin,,,,,,
+84,84,Stubenthor,"01., Wollzeile 17",hoch,16.3762765832983,48.2086227765132,Gazetteer_Steinhausenplan_V5_auto,
+85,85,Kloster und Kirche der  Dominikaner,Postgasse 7-9,mittel,16.37886547,48.20813528,Gazetteer_Steinhausenplan_V5_manuell,
+86,86,Ravelin,,,,,,
+87,87,Hauptmauth,,hoch,16.37997332711235,48.20998039946321,QGIS - Estimation,
+88,88,Fahrpost,,,,,,
+89,89,Hauptmauth,"03., Dominikanerbastei 9-13",hoch,16.37997332711235,48.20998039946321,QGIS - Estimation,
+90,90,Glacis,,,,,,
+91,91,Zollamt,"03., Hintere Zollamtsstraße 2A",hoch,16.3867689100923,48.2110223126289,"CityABC, Google Maps",https://cityabc.at/index.php/Hintere_Zollamtsstra%C3%9Fe_2A
+92,92,Ravelin,,,,,,
+93,93,Donaukanal,"02., Schüttelstraße 17A",hoch,16.3950020299091,48.2113512330379,KulturwikiOGD,
+94,94,Kahlengebirge,"19., Am Kahlenberg K Stephanie-Warte",mittel,16.3330615633398,48.2762075206991,KulturwikiOGD,
+95,95,Praters,"02., Meiereistraße 20; k.k. Unterer Prater",mittel,16.4141951988236,48.2055162577246,KulturwikiOGD,
+96,96,Leopoldstadt,"02., Heustadlsteg 213",mittel,16.38050694491423,48.21584540181176,QGIS-Estimation,
+97,97,Ferdinandsbrücke,Schwedenbrücke,hoch,16.378889,48.211944,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Schwedenbr%C3%BCcke&language=de&params=48.211944444444_N_16.378888888889_E_region:AT-9_type:landmark
+98,98,Rothenthurm=Thore,,hoch,16.37838824076474,48.21161448839335,QGIS - Estimation,
+99,99,Taborstraße,"02., Taborstraße 63",mittel,16.3822236734434,48.2220212119013,KulturwikiOGD,
+100,100,Tabor,,,,,,
+101,101,Mähren,,,,,,
+102,102,Böhmen,,,,,,
+103,103,Jägerzeile,Leopoldstadt,hoch,16.385278,48.215278,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=J%C3%A4gerzeile&language=de&params=48.215277777778_N_16.385277777778_E_region:AT-9_type:city
+104,104,Donau,"02., Kafkasteg R RESTAURANT",sehr niedrig (f),16.4162584112263,48.2203084222321,KulturwikiOGD,
+105,105,Kornspeicher,,,,,,
+106,106,Franzensbrücke,"02., Franzensbrücke 202",hoch,16.3913111006681,48.2131740152539,KulturwikiOGD,
+107,107,. Bastei,"01., Singerstraße 2",,16.3719451158804,48.2077579875822,KulturwikiOGD,
+108,108,unter den  Weißgärbern,,mittel,16.3884228,48.21224095,Gazetteer_Steinhausenplan_V5_auto,
+109,109,Erdberg,"03., Gestettengasse 36A",mittel,16.4069369983908,48.194841093632,KulturwikiOGD,
+110,110,Rothenthurm=Thore,,hoch,16.37838824076474,48.21161448839335,QGIS - Estimation,
+111,111,Laurenzer=Gasse,"05., Hauslabgasse 21/5",sehr niedrig (f),16.3641556968336,48.1845641139818,KulturwikiOGD,
+112,112,Laurenzerhof,,mittel,16.37879712,48.21080605,Gazetteer_Steinhausenplan_V5_manuell,
+113,113,Staats=Buchhaltungen,,mittel,16.3783624420856,48.2108044954658,"CityABC, Google Maps",https://cityabc.at/index.php/Franz-Josefs-Kai_23
+114,114,Müllerische Palais,"01., Rothenturmstraße 26",mittel,16.3763882965999,48.2118492596891,"CityABC, Google Maps",https://cityabc.at/index.php/Fischerstiege#Das_Tor_aus_Sicht_des_Jahres_1842
+115,115,Leopoldstadt,"02., Heustadlsteg 213",mittel,16.38050694491423,48.21584540181176,QGIS - Estimation,
+116,116,Dianabad,"02., Obere Donaustraße 93",hoch,16.3764218926837,48.2135883058372,KulturwikiOGD,
+117,117,Karls=Kettenbrücke,Salztorbrücke,hoch,16.375,48.214167,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Salztorbr%C3%BCcke&language=de&params=48.214166666667_N_16.375_E_region:AT-9_type:landmark
+118,118,Schanzl,"01., Franz-Josefs-Kai 31/1",hoch,16.3749371812675,48.2136340235486,KulturwikiOGD,
+119,119,Fischmarkt,"01., Fleischmarkt 3-5",hoch,16.37650022973025,48.2121203598393,QGIS - Estimation,
+120,120,St. Ruprechtstiege,"01., Morzinplatz 1",,16.3744308087953,48.2122854277892,KulturwikiOGD,
+121,121,Ravelin,,,,,,
+122,122,Fischerthore,"01., Morzinplatz 3",hoch,16.3739870831074,48.212963261662,"CityABC, Google Maps",https://cityabc.at/index.php/Fischerstiege#Das_Tor_aus_Sicht_des_Jahres_1842
+123,123,Salzgries,"01., Salztorgasse 2",mittel,16.3728561894804,48.2129740280833,KulturwikiOGD,
+124,124,Polizeihaus,"01., Salzgries 10-16",mittel,16.3716537100925,48.2134726054448,KulturwikiOGD,
+125,125,Grenadierkaserne,Gumpendorferstraße 6-12,niedrig,16.361861,48.200944,KulturwikiOGD,
+126,126,Stabsstockhaus,,,,,,
+127,127,Elendbastei,"01., Schottenring 7, Sühnhaus",hoch,16.37089487712133,48.21442454654365,QGIS - Estimation ,
+128,128,Observatorium,"01., Dr.-Ignaz-Seipel-Platz",sehr niedrig (f),16.377647,48.208936,KulturwikiOGD,
+129,129,Thore,neues Thore,mittel,16.36941222747893,48.21420386663832,QGIS-Estimation,
+130,130,Glacis,,,,,,
+131,131,Augartenbrücke,"02., Augartenbrücke 201",hoch,16.3703252108137,48.2187980017337,KulturwikiOGD,
+132,132,Leopoldstadt,"02., Heustadlsteg 213",sehr niedrig (f),16.4239932517287,48.1976654115296,Gazetteer_Steinhausenplan_V5_auto,
+133,133,Augartens,"02., Obere Augartenstraße 1 Obj. 44 WC-ANLAGE",hoch,16.3757991931892,48.22563596577,KulturwikiOGD,
+134,134,Brigittenau,"20., Leithastraße 16",mittel,16.3758059042119,48.2384626717794,KulturwikiOGD,
+135,135,Roßau,,hoch,16.363889,48.221667,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Rossau_(Wien)&language=de&params=48.221666666667_N_16.363888888889_E_region:AT-9_type:city 
+136,136,Lichtenthal,,mittel,16.357778,48.228056,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Lichtental_(Wien)&language=de&params=48.228055555556_N_16.357777777778_E_region:AT-9_type:city
+137,137,Servitenkirche,"09., Servitengasse 9",hoch,16.3638355586032,48.22043322564,KulturwikiOGD,
+138,138,Döbling,"19., Cobenzlgasse 63",mittel,16.3331726214989,48.2609654182359,KulturwikiOGD,
+139,139,Kahlengebirge,"19., Am Kahlenberg K Stephanie-Warte",mittel,16.3330615633398,48.2762075206991,KulturwikiOGD,
+140,140,Leopoldsberg,"19., Am Leopoldsberg 1",mittel,16.3465974095477,48.2790007290956,KulturwikiOGD,
+141,141,Herzogsburg der Babenberge,"01., Am Hof 2",niedrig,16.3681815576716,48.2107974672164,"CityABC, Google Maps",https://cityabc.at/index.php/Die_Babenberger-Residenz
+142,142,Kahlenberg,"19., Villenweg 58",mittel,16.3330615633398,48.2762075206991,KulturwikiOGD,
+143,143,Josephsberg,,mittel,15.249119424881,47.9380447695676,Google Maps,
+144,144,Bastei,,,,,,
+145,145,Arsenales,,hoch,16.36726977,48.21374354,Gazetteer_Steinhausenplan_V5_auto,
+146,146,Proviantbäckerei,,,,,,
+147,147,Schottenthore,"01., Freyung 6 Konvent",hoch,16.3635749184532,48.21320492206406,QGIS-Estimation,
+148,148,Schottengasse,"01., Schottengasse 4",niedrig,16.363197754961,48.2132486749223,KulturwikiOGD,
+149,149,Freiung,"01., Freyung Tiefgarage",hoch,16.3647892781553,48.2115772779088,Gazetteer_Steinhausenplan_V5_auto,
+150,150,Herrngasse,"01., Herrengasse 10",hoch,16.3656068251942,48.2098405410723,Gazetteer_Steinhausenplan_V5_auto,
+151,151,Währingergasse,,hoch,16.35822875,48.21860117,Gazetteer_Steinhausenplan_V5_auto,
+152,152,Gewehrfabrik,"09., Schwarzspanierstraße 17",hoch,16.3583315441385,48.2170208900507,KulturwikiOGD,
+153,153,Döbling,"19., Cobenzlgasse 63",mittel,16.3331726214989,48.2609654182359,KulturwikiOGD,
+154,154,GarnisonsBettmagazin,,mittel,18.4400221375504,34.2019048735439,QGIS - Estimation,
+155,155,fürstlichEsterhazische sogenannte rothe Haus,Wallnerstraße oder Kärtnerstraße ,hoch,18.1858255041702,34.192160669263,QGIS - Estimation,
+156,156,Jnfanterie=Kaserne,,mittel,16.35487124361848,48.2148999202754,QGIS - Estimation,
+157,157,Alsergasse,"21., Kalsergasse 22",hoch,16.35120368808063,48.21490045957493,QGIS - Estimation,
+158,158,Dornbach,,,,,,
+159,159,Kriminale,,hoch,16.35506101024108,48.2141886755896,QGIS - Estimation,
+160,160,Ravelin,,,,,,
+161,161,Mölkerbastei,"01., Mölker Bastei 8",hoch,16.3620532425105,48.2123940370492,KulturwikiOGD,
+162,162,Teinfaltstraße,"01., Teinfaltstraße 7",hoch,16.3627143666587,48.2114410456447,KulturwikiOGD,
+163,163,Palais Lubomirski,"01., Mölker Bastei ",mittel,16.361944,48.211667,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Palais_Lubomirski&language=de&params=48.211666666667_N_16.361944444444_E_region:AT-9_type:landmark
+164,164,Franzensthor,"01., Rosengasse 8",hoch,16.36150298908665,48.2110399517675,QGIS - Estimation,
+165,165,Josephstadt,"08., Fuhrmannsgasse 3",hoch,16.3480816321009,48.2103093789491,KulturwikiOGD,
+166,166,geographische Jnstitut,"01., Friedrich-Schmidt-Platz 3",mittel,16.356329,48.210981,KulturwikiOGD,
+167,167,Kaisergasse,"23., Kaserngasse 22",hoch,16.34941129155137,48.20958245176354,QGIS-Estimation,
+168,168,Josephstädter Theater,,mittel,16.351111,48.209583,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Theater_in_der_Josefstadt&language=de&params=48.209583333333_N_16.351111111111_E_dim:400_region:AT-9_type:landmark
+169,169,Kavallerie=Kaserne,,hoch,16.34596291721564,48.2111036535517,QGIS-Estimation,
+170,170,Lerchenfeld,"07., Lerchenfelder Straße 81",hoch,16.3448583188681,48.2072450727103,KulturwikiOGD,
+171,171,Löwelbastei,"01., Volksgarten GAERTNERHAUS",hoch,16.36130416551425,48.20989200905235,QGIS-Estimation,
+172,172,Paradies=Gärtchen,,sehr niedrig (f),16.36664806,48.20774753,Gazetteer_Steinhausenplan_V5_manuell,
+173,173,Cortis=Kaffehhause,"01., Volksgarten",mittel,16.3609691632441,48.2069211592244,"Wien Geschichte Wiki, Google Maps",https://www.geschichtewiki.wien.gv.at/Cortisches_Kaffeehaus
+174,174,Volksgarten,"01., Volksgarten THESEUSTEMPEL",niedrig,16.3617552379407,48.2079640584701,KulturwikiOGD,
+175,175,Schenkenstraße,"01., Schenkenstraße 8",hoch,16.36352996400103,48.21033442845649,QGIS - Estimation,
+176,176,Palais Liechtenstein,"(Stadtpalais) 01., Bankgasse 9",mittel,16.3626965846566,48.2101289183061,Google Maps,
+177,177,Staats=Kanzlei,"01., Ballhausplatz 2",mittel,16.3637725296221,48.2083797886037,KulturwikiOGD,
+178,178,Ballplatz,"01., Ballhausplatz 1",hoch,16.3637,48.2081,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Ballhausplatz&language=de&params=48.2081_N_16.3637_E_region:AT-9_type:landmark
+179,179,Bellaria,Hofburg,mittel,16.364081,48.208372,"Wikipedia, GeoHack",https://geohack.toolforge.org/geohack.php?pagename=Bellaria&language=de&params=48.208372222222_N_16.364080555556_E_region:AT-9_type:landmark
+180,180,Burgplatz,,hoch,16.3644986548132,48.20679511956491,QGIS-Estimation,
+181,181,Volksgarten,"01., Volksgarten THESEUSTEMPEL",,16.3617552379407,48.2079640584701,KulturwikiOGD,
+182,182,zweites Kaffehaus von Corti,,,,,,
+183,183,Volksgarten,"01., Volksgarten THESEUSTEMPEL",,16.3617552379407,48.2079640584701,KulturwikiOGD,
+184,184,Theseustempel,"01., Volksgarten THESEUSTEMPEL",,16.361686238078,48.2083830570045,KulturwikiOGD,
+185,185,Hof=Burgwache,,,,,,
+186,186,Schweizerhof,"01., Hofburg B Schweizertrakt",,16.3658432153876,48.2068760609744,KulturwikiOGD,
+187,187,Kunstvereine,,,,,,
